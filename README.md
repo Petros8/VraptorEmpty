@@ -18,7 +18,8 @@ Jetty 8+ ou Tomcat 8 para rodar a aplicação
 
 2 - Colocar os arquivos nessa pasta(O pom.xml tem que estar nesta pasta).
 
-3 - No Eclipse você aperta botão direito na aba de projetos e escolhe Import -> Existing Maven Project.
+3 - No Eclipse você aperta botão direito na aba de projetos e escolhe Import -> Existing Maven Project e selecione a pasta onde 
+    está o pom.xml do projeto.
 
 4 - Espere o Eclipse Carregar o projeto e depois feche ele.
 
